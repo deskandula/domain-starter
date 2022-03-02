@@ -15,6 +15,10 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-image: url(https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif);
+  background-size: 100%;
+  background-position: center; /* Center the image */
+  background-repeat: repeat; 
 }
 
 .header-container {
